@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/notes-app-client/static/css/main.bea631d4.chunk.css",
+    "main.js": "/notes-app-client/static/js/main.3c7ff931.chunk.js",
+    "main.js.map": "/notes-app-client/static/js/main.3c7ff931.chunk.js.map",
+    "runtime~main.js": "/notes-app-client/static/js/runtime~main.46c92b78.js",
+    "runtime~main.js.map": "/notes-app-client/static/js/runtime~main.46c92b78.js.map",
+    "static/js/2.0b6344b0.chunk.js": "/notes-app-client/static/js/2.0b6344b0.chunk.js",
+    "static/js/2.0b6344b0.chunk.js.map": "/notes-app-client/static/js/2.0b6344b0.chunk.js.map",
+    "index.html": "/notes-app-client/index.html",
+    "precache-manifest.e00917974231cb0820d336abb0303807.js": "/notes-app-client/precache-manifest.e00917974231cb0820d336abb0303807.js",
+    "service-worker.js": "/notes-app-client/service-worker.js",
+    "static/css/main.bea631d4.chunk.css.map": "/notes-app-client/static/css/main.bea631d4.chunk.css.map"
+  }
+}
